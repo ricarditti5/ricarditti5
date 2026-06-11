@@ -30,8 +30,8 @@ I learn by doing — CLI tools, APIs, automation. Every repo here is a step in t
 **Languages**
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **Frontend**
 
@@ -55,7 +55,7 @@ I learn by doing — CLI tools, APIs, automation. Every repo here is a step in t
 | [task-cli-go](https://github.com/ricarditti5/task-cli-go) | Terminal task manager with JSON persistence | Go |
 | [calculator-cli](https://github.com/ricarditti5/calculator-cli) | Simple and functional CLI calculator | Go |
 | [guessing-game-go](https://github.com/ricarditti5/guessing-game-go) | Number guessing game in the terminal | Go |
-| [love-quizz](https://github.com/ricarditti5/love-quizz) | Interactive quiz with React + Supabase | JavaScript |
+| [love-quizz](https://github.com/ricarditti5/love-quizz) | Interactive quiz with React + Supabase | TypeScript |
 
 ---
 
@@ -65,7 +65,7 @@ I learn by doing — CLI tools, APIs, automation. Every repo here is a step in t
 
 ![Ricardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ricarditti5&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ricarditti5&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ricarditti5&layout=compact&theme=tokyonight&hide_border=true&hide=php)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ricarditti5&theme=tokyonight&hide_border=true)
 
