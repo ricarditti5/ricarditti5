@@ -71,10 +71,6 @@ I learn by doing — CLI tools, APIs, automation. Every repo here is a step in t
 
 <div align="center">
 
-![Ricardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ricarditti5&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ricarditti5&layout=compact&theme=tokyonight&hide_border=true&hide=php)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=ricarditti5&theme=tokyonight&hide_border=true)
 
 </div>
